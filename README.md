@@ -1,16 +1,8 @@
-# Why this repo?
+<img width="346" height="346" alt="image" src="https://github.com/user-attachments/assets/c99f2e5f-515f-4608-8d19-2ae266a19ded" />
 
 
-This is a template repo to be used for new projects.
+# What is this?
 
-It provides the following
 
-- A devenv.nix for setting up uv, python, sops and age
-- A commitizen for conventional commits message formatting and code versioning
-- Banner with menu and initializing scripts
-- pre-commit hooks for linting and pytest
-- ci cd pipeline for building a docker image
 
-## How to use this template
-
-TODO
+Part of the apart hackathon
